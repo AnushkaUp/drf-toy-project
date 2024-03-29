@@ -1,0 +1,2 @@
+DROP DATABASE drf;
+DROP USER new_user1;
